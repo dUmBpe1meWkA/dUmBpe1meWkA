@@ -27,9 +27,7 @@ I build small tools and experiments around Linux, browser workflows, networking,
 * [speed_test_for_fire_fox](https://github.com/dUmBpe1meWkA/speed_test_for_fire_fox) - Browser-based speed test project.
 * [vpn_client_xray_-_vless](https://github.com/dUmBpe1meWkA/vpn_client_xray_-_vless) - Notes and experiments around Xray/VLESS VPN setup.
 
-### GitHub
+### GitHub Profile
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dUmBpe1meWkA&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dUmBpe1meWkA&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
+* Public repositories: [github.com/dUmBpe1meWkA?tab=repositories](https://github.com/dUmBpe1meWkA?tab=repositories)
+* Main profile: [github.com/dUmBpe1meWkA](https://github.com/dUmBpe1meWkA)
